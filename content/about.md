@@ -22,8 +22,11 @@ It is important that the source material is published in such a way that it is u
 removed or migrated elsewhere in the future.
 This is particularly important for interviews and news articles which may be subject to relocation.
 Please consider, using the [WayBackMachine](https://web.archive.org/).
+We use the 'ieee' citation style.
+To quickly format any doi, we recommend [citation.crosscite.org](https://citation.crosscite.org/)
+and [asouqi.github.io/bibtex-converter](https://asouqi.github.io/bibtex-converter/).
 
 ## License
 
 All original content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-Note that embedded youtube videos underly youtubes internali licensing.
+Note that embedded youtube videos underly Youtube's internal licensing.
