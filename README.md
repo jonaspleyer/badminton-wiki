@@ -1,6 +1,8 @@
 # Badminton-Wiki
 
-This is a publich knowledge collection about the professional sport of badminton.
+This is a public knowledge collection about the professional sport of badminton.
+Visit the wiki under
+[jonaspleyer.github.io/badminton-wiki](https://jonaspleyer.github.io/badminton-wiki/)
 
 # License
 
