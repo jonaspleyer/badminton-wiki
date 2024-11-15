@@ -1,0 +1,27 @@
+baseURL = 'https://badminton-wiki.com'
+
+
+title = 'Badminton Wiki'
+theme = 'hugo-theme-relearn'
+
+defaultContentLanguage = "en"
+
+[languages]
+    [languages.en]
+        languageCode = 'en'
+        languageName = 'English'
+        weight = 10
+
+    [languages.de]
+        languageCode = 'de'
+        languageName = 'Deutsch'
+        weight = 20
+
+[params]
+collapsibleMenu = true
+# alwaysopen = false
+additionalContentLanguage = ['en', 'de']
+themeVariant = ['auto', 'zen-light', 'zen-dark']
+
+[markup.goldmark.renderer]
+unsafe= true
