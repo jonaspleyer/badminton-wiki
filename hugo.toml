@@ -1,5 +1,4 @@
-baseURL = 'https://badminton-wiki.com'
-
+baseURL = 'https://jonaspleyer.github.io/badminton-wiki/'
 
 title = 'Badminton Wiki'
 theme = 'hugo-theme-relearn'
