@@ -1,7 +1,7 @@
 baseURL = 'https://jonaspleyer.github.io/badminton-wiki/'
 
 title = 'Badminton Wiki'
-theme = 'hugo-theme-relearn'
+theme = ['hugo-theme-relearn', 'hugo-simplecite']
 
 defaultContentLanguage = "en"
 
