@@ -1,0 +1,62 @@
+[
+  {
+    "URL": "http://en.wikipedia.org/w/index.php?title=Badminton",
+    "author": [
+      {
+        "family": "Wikipedia"
+      }
+    ],
+    "id": "wiki:Badminton",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "note": "[Online; accessed 16-November-2024]",
+    "title": "Badminton — Wikipedia, the free encyclopedia",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://bwfbadminton.com/news-single/2021/06/15/cai-yun-and-fu-haifeng-indomitable-spirit",
+    "author": [
+      {
+        "family": "BWF"
+      }
+    ],
+    "container-title": "BWF Fansite",
+    "id": "BWF:Fansite_2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6
+        ]
+      ]
+    },
+    "title": "Cai yun and fu haifeng, indomitable spirit",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://bwfbadminton.com/news-single/2023/06/02/chen-long-consistency-personified",
+    "author": [
+      {
+        "family": "BWF"
+      }
+    ],
+    "container-title": "BWF Fansite",
+    "id": "BWF:Fansite_2023",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          6
+        ]
+      ]
+    },
+    "title": "Chen long: Consistency personified",
+    "title-short": "Chen long",
+    "type": "article-journal"
+  }
+]
