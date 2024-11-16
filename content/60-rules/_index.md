@@ -14,6 +14,12 @@ The BWF publishes the international rules for badminton under
 
 ### Court
 
+![](court-singles.png)
+<div style="text-align: center;">Singles Court</div>
+
+![](court-doubles.png)
+<div style="text-align: center;">Doubles Court</div>
+
 ### Scoring System
 
-## Old Rules
+### Serve
