@@ -1,0 +1,65 @@
+[
+  {
+    "DOI": "10.2165/00007256-199010010-00006",
+    "ISSN": "0112-1642",
+    "URL": "http://dx.doi.org/10.2165/00007256-199010010-00006",
+    "author": [
+      {
+        "family": "Jørgensen",
+        "given": "Uffe"
+      },
+      {
+        "family": "Winge",
+        "given": "Søren"
+      }
+    ],
+    "container-title": "Sports Medicine",
+    "id": "Jrgensen1990",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1990,
+          7
+        ]
+      ]
+    },
+    "page": "59-64",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Injuries in badminton",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "DOI": "10.1016/j.scispo.2020.01.002",
+    "ISSN": "0765-1597",
+    "URL": "http://dx.doi.org/10.1016/j.scispo.2020.01.002",
+    "author": [
+      {
+        "family": "Phomsoupha",
+        "given": "M."
+      },
+      {
+        "family": "Laffaye",
+        "given": "G."
+      }
+    ],
+    "container-title": "Science &amp; Sports",
+    "id": "Phomsoupha2020",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "page": "189-199",
+    "publisher": "Elsevier BV",
+    "title": "Injuries in badminton: A review",
+    "title-short": "Injuries in badminton",
+    "type": "article-journal",
+    "volume": "35"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "DOI": "10.1371/journal.pone.0277775",
+    "ISSN": "1932-6203",
+    "URL": "http://dx.doi.org/10.1371/journal.pone.0277775",
+    "author": [
+      {
+        "family": "Malwanage",
+        "given": "Kavinda T."
+      },
+      {
+        "family": "Senadheera",
+        "given": "Vindya V."
+      },
+      {
+        "family": "Dassanayake",
+        "given": "Tharaka L."
+      }
+    ],
+    "container-title": "PLOS ONE",
+    "editor": [
+      {
+        "family": "Abián-Vicén",
+        "given": "Javier"
+      }
+    ],
+    "id": "Malwanage2022",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    },
+    "page": "e0277775",
+    "publisher": "Public Library of Science (PLoS)",
+    "title": "Effect of balance training on footwork performance in badminton: An interventional study",
+    "title-short": "Effect of balance training on footwork performance in badminton",
+    "type": "article-journal",
+    "volume": "17"
+  }
+]
