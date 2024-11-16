@@ -18,7 +18,7 @@ defaultContentLanguage = "en"
 
 [params]
 collapsibleMenu = true
-# alwaysopen = false
+alwaysopen = false
 additionalContentLanguage = ['en', 'de']
 themeVariant = ['auto', 'zen-light', 'zen-dark']
 
