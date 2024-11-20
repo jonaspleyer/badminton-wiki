@@ -1,3 +1,5 @@
+![Build](https://img.shields.io/github/actions/workflow/status/jonaspleyer/badminton-wiki/deploy.yml?style=flat-square&label=Build)
+
 # Badminton-Wiki
 
 This is a public knowledge collection about the professional sport of badminton.
