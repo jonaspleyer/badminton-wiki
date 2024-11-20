@@ -79,12 +79,38 @@ draft: false
 
 21:10
 - 12min (8x1,5min) 3 gegen 1 Ecke
-    - 1. Durchlauf: Nur sichere Lösungen: Zeitgewinn
-    - 2. Durchlauf: So schnell wie möglich überall rangehen.
+    1. Durchlauf: Nur sichere Lösungen: Zeitgewinn
+    2. Durchlauf: So schnell wie möglich überall rangehen.
 
 21:25
 - Kleine Feedbackrunde + Diskussion: Warum haben wir das gemacht?
 
 #### 20. November 2024 (Angepasste Laufwege II)
 
+20:00
+- 10 min Einlaufen
+- 10 min Footwork
+- 10min Einspielen
 
+20:30
+- 8min (8x1min) Ballmaschine:
+    - Umsprung, Chinasprung
+    - Clear spielen
+- 5min Einführung Abfangschritt VH+RH
+- 8min (8x1min) Ballmaschine: Laufwege Hinterfeld
+    - VH+RH Abfangschritt
+    - Variationen: Viel Zeit, Wenig Zeit
+    - Longline Clear oder Drop spielen
+- 4min (4x1min) Ballmaschine: Laufweg Hinterfeld
+    - VH+RH Lauftechnik selbst wählen
+
+21:00
+- 18min (6x3min) 2 gegen 1 (oder 3 gegen 1; dann 8x2min 15s)
+    - Fokus auf verschiedene Lauftechniken im Hinterfeld
+    - Anwenden der Lauftechniken
+    - Durchhalten bis zur letzten Minute
+    - 2 Liegestütze für jeden unforced Error der Zuspieler
+- 8min Halbfeld Einzel: Es werden max. 10 Ballwechsel gespielt.
+    - Sobald Spieler1 N/10 Punkte hat ist Ende und hat gewonnen
+    - Punkte N/10 werden bestimmt durch Gegner
+    - Beispiel: Alex gegen Jonas; Jonas muss nur 3 Punkte machen.
